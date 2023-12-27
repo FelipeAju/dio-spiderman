@@ -2,7 +2,7 @@
 @import url('/Alberto/dio-spiderman/assets/css/global.css');
 
 body {
-    background-color: var(--primary-color);
+    background-color: rgb(29, 29, 29);
 }
 
 body::before { /*Pseudo elemento não precisa indicar no index ::before*/
@@ -16,7 +16,7 @@ body::before { /*Pseudo elemento não precisa indicar no index ::before*/
     position: absolute;
     opacity: 0.2;
     transition: background-image 1s ease-in-out, opacity 1s ease-in-out;
-}
+    }
 
 .s-menu {
     padding: 1rem 0;
