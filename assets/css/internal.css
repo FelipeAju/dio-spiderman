@@ -52,10 +52,10 @@
 }
 
 .s-wrapper .s-main-content .s-logo img {
-    width: 90%;
-    margin-top: 50px;
+    width: 80%;
+    margin-top: 1rem;
     margin-left: 0;
-    margin-bottom: 20px;
+    margin-bottom: 1rem;
 }
 
 .s-wrapper .s-main-content__top .s-description {
@@ -115,7 +115,7 @@
     background-size: cover;
 }
 
-.s-spiderman-03-02 {
+/*.s-spiderman-03-02 {
     background-image: url('/Alberto/dio-spiderman/assets/images/spiderman-tom/movie-02/background.png');
     background-size: cover;
-}
+}*/
