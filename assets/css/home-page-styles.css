@@ -1,5 +1,5 @@
-@import url('/Alberto/dio-spiderman/assets/css/reset.css');
-@import url('/Alberto/dio-spiderman/assets/css/global.css');
+@import url('./reset.css');
+@import url('./global.css');
 
 body {
     background-color: rgb(29, 29, 29);
@@ -7,7 +7,7 @@ body {
 
 body::before { /*Pseudo elemento não precisa indicar no index ::before*/
     content: "";
-    background-image: url('/Alberto/dio-spiderman/assets/images/spider-man-background.jpg');
+    background-image: url('/assets/images/spider-man-background.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
