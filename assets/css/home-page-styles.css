@@ -154,7 +154,7 @@ body::before { /*Pseudo elemento não precisa indicar no index ::before*/
 }
 
 body#spider-man-01-hovered::before {
-    background-image: url('/Alberto/dio-spiderman/assets/images/pic-sm-bg-01.jpg');
+    background-image: url('assets/images/pic-sm-bg-01.jpg');
 }
 
 body#spider-man-02-hovered::before {
